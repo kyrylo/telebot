@@ -1,6 +1,6 @@
 package react
 
-import "github.com/kyrylo/telebot.v3"
+import "github.com/kyrylo/telebot"
 
 type Reaction = telebot.Reaction
 

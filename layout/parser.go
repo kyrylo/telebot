@@ -9,7 +9,7 @@ import (
 	"text/template"
 
 	"github.com/goccy/go-yaml"
-	tele "github.com/kyrylo/telebot.v3"
+	tele "github.com/kyrylo/telebot"
 	"github.com/spf13/viper"
 )
 

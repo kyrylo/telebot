@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"log"
 
-	tele "github.com/kyrylo/telebot.v3"
+	tele "github.com/kyrylo/telebot"
 )
 
 // Logger returns a middleware that logs incoming updates.

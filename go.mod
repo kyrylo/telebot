@@ -1,4 +1,4 @@
-module github.com/kyrylo/telebot.v3
+module github.com/kyrylo/telebot
 
 go 1.16
 
